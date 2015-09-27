@@ -2,8 +2,12 @@ README.txt
 
 600.226 Data Structures
 William Watson - wwatso13
-Joshan Bajaj - jbajaj1
+Joshan Bajaj
 P1
+
+To run:
+javac Hangman.java
+java Hangman dictionary.txt
 
 Files Included:
 Hangman.java -> main class with main method
