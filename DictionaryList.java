@@ -1,7 +1,6 @@
-/** 600.226 Data Structures 
+/**
  * William Watson - wwatso13.
- * Joshan Bajaj - jbajaj1.
- * P1
+ * Joshan Bajaj
  * DictionaryList.java
  */
 
